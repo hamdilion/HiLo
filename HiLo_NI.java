@@ -1,4 +1,4 @@
-//Written by Naail Iqbal 12/29/2021
+
 import java.util.Scanner;
 import java.util.Random;
 
